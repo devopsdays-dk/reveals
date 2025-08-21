@@ -16,3 +16,10 @@
 ---
 
 # Second section
+
+```python
+# Python code example
+def hello_world():
+    print("Hello, world!")
+hello_world()
+``` 
