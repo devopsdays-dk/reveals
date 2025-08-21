@@ -40,41 +40,40 @@ The "Days" concept in DevOpsDays is refering to the open space conference format
 - Smaller groups
 - Facilitators (at least on larger groups") to keep track
 
-
-
-
+---
 
 # Slack or GitHub
 
+We go for slack if we can get it for free - or we go to GitHub discussions
 
+---
 
-460K in the bank
+# Status 2024
 
-230 particpants last year
-We sell most in april (same month as the conferecen)
+- 460K in the bank
+- 230 particpants last year
+- We sell most in april (same month as the conferecen)
 
 ---
 ---
 
 # Action Points
-Lars: Organize a slack channel for the event
-Janick & Lars: Organiize and plan Open Space
-Lars: Reach out to keynote speakers
-ttc: Organize the pre-conf dinnner
+- Lars: Organize a slack channel for the event
+- Janick & Lars: Organiize and plan Open Space
+- Lars: Reach out to keynote speakers
+- ttc: Organize the pre-conf dinnner
 
 ---
 
 # Reach out to keynote speakers!
 
-Nichole Forsgren (Accelerate)
-Gene Kim (the wiining organization)
-Jez Humble (Accelerate)
-
-Camille fornier (Platform Engineering)
-
-Dave Farley (Continuous Delivery)
-Jim Coplien (Organizational Patterns)
-Ian nowlan (DevOps)
+- Nichole Forsgren (Accelerate)
+- Gene Kim (the wiining organization)
+- Jez Humble (Accelerate)
+- Camille fornier (Platform Engineering)
+- Dave Farley (Continuous Delivery)
+- Jim Coplien (Organizational Patterns)
+- Ian nowlan (DevOps)
 
 
 Flexible on date - end of april (28<sup>th</sup>-29<sup>th</sup>)....
@@ -88,14 +87,16 @@ Flexible on date - end of april (28<sup>th</sup>-29<sup>th</sup>)....
 
 ...find en freelancer på worksome, fiver eller upworks
 
-#
+---
 
-Anne Louise
-Mads
-Jannick
-Lars
-Danny
-Simon
+# Team
+
+- Anne Louise
+- Mads
+- Jannick
+- Lars
+- Danny
+- Simon
 
 
 
