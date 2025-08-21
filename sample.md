@@ -1,5 +1,5 @@
 # Sample
-[marddownloader](https://revealse.thetechcollective.dev)
+[markdownloader](https://revealse.thetechcollective.dev)
 
 ---
 ---
